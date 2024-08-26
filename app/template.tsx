@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 import animation from "./utils/animation";
 
-export default function template({ children }: { children: React.ReactNode }) {
+export default function Template({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     animation();
   }, []);

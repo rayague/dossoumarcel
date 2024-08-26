@@ -45,15 +45,16 @@ export default function Home() {
             className="w-full my-6"
           />
           <h3 className="text-2xl lg:text-5xl text-white font-light items-start">
-            I'm John Doe and I'm{" "}
+            Je suis John Doe et suis un{" "}
           </h3>
           <h1 className="text-7xl lg:text-9xl text-white font-black tracking-tighter">
-            Worker.
+            Designer.
           </h1>
           <div className="container text-white text-center font-black text-5xl tracking-normal flex flex-col gap-10 justify-around w-full my-16 mx-auto">
             <p className={greatVibes.className}>
-              Il n'y a pas de secret pour réussir, c'est le résultat de la
-              préparation, du travail et de l'apprentissage de l'échec.
+              Il n&apos;y a pas de secret pour réussir, c&apos;est le résultat
+              de la préparation, du travail et de l&apos;apprentissage de
+              l&apos;échec.
             </p>
           </div>
           <div className="flex flex-row items-center justify-center text-white gap-3">

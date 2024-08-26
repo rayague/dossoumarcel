@@ -112,7 +112,7 @@ export default function Home() {
                   <span className="text-red-600 font-black text-4xl">
                     23ans{" "}
                   </span>
-                  <h3 className="font-bold text-2xl">D'expériences</h3>
+                  <h3 className="font-bold text-2xl">D&apos;expériences</h3>
                 </div>
                 <div className="container border p-5 flex flex-col items-center justify-center rounded-md border-slate-500">
                   <span className="text-red-600 font-black text-4xl">34</span>
