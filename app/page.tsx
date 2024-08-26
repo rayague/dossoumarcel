@@ -50,7 +50,7 @@ export default function Home() {
           <h1 className="text-7xl lg:text-9xl text-white font-black tracking-tighter">
             Designer.
           </h1>
-          <div className="container text-white text-center font-black text-5xl tracking-normal flex flex-col gap-10 justify-around w-full my-16 mx-auto">
+          <div className="container text-white text-center font-black text-3xl md:text-5xl lg:text-7xl tracking-normal flex flex-col gap-10 justify-around w-full my-16 mx-auto">
             <p className={greatVibes.className}>
               Il n&apos;y a pas de secret pour réussir, c&apos;est le résultat
               de la préparation, du travail et de l&apos;apprentissage de
@@ -100,7 +100,7 @@ export default function Home() {
             </Link>
           </h3>
         </div>
-        <div className="container fixed bottom-5 left-auto items-center justify-around right-auto flex flex-row p-4 backdrop-blur-2xl backdrop-brightness-200 rounded-3xl h-auto mx-2 sm:w-3/4 w-10/12 gap-1 lg:w-1/3 md:w-1/2">
+        <div className="container fixed bottom-5 left-auto items-center justify-around right-auto flex flex-row p-4 sm:p-2 backdrop-blur-2xl backdrop-brightness-200 rounded-3xl h-auto mx-2 sm:w-4/5 w-11/12 gap-1 lg:w-1/3 md:w-1/2">
           <Link
             href="/"
             className="bg-white rounded-full p-3 text-3xl tracking-tighter"
