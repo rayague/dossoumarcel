@@ -37,26 +37,26 @@ export default function Home() {
             src="/images/lg/pictureLg31.jpg"
             className="w-full my-6"
           />
-          <div className="container flex flex-col gap-10 justify-around w-full my-16 mx-auto">
+          <div className="container flex flex-col gap-10 justify-around w-full mt-16 mx-auto">
             <h1 className="text-5xl text-white font-bold">
               Veiullez me contacter
             </h1>
             <div className=" grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 text-white font-bold gap-6">
               <div className="bg-gray-700 rounded flex flex-row items-center justify-center p-8 gap-3">
                 <FontAwesomeIcon className="size-8" icon={faLocationPin} />
-                <p>123 Street, New York, USA</p>
+                <p>Abomey-Calavi 02BP 2163, Gbégamey-Cotonou</p>
               </div>
               <div className="bg-gray-700 rounded flex flex-row items-center justify-center p-8 gap-3">
                 <FontAwesomeIcon className="size-8" icon={faEnvelope} />
 
-                <p>contact@gmail.com</p>
+                <p>dossoumarcel863@yahoo.fr </p>
               </div>
               <div className="bg-gray-700 rounded flex flex-row items-center justify-center p-8 gap-3">
                 <FontAwesomeIcon className="size-8" icon={faPhone} />
-                <p>+1212 1212898 9900</p>
+                <p>+229 97 96 14 17</p>
               </div>
             </div>
-            <div className="flex flex-row items-center justify-center text-white gap-3">
+            <div className="flex flex-row items-center justify-center mt-16 text-white gap-3">
               <Link href="" className="hover:translate-y-2">
                 <FontAwesomeIcon
                   className="size-12 text-blue-600"
