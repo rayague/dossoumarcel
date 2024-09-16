@@ -25,7 +25,6 @@ import {
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col bg-slate-950 justify-center font-sans pt-10 pb-32">
-      <h3 className="text-3xl text-white mx-10">Logo</h3>
       <div className="flex px-5 lg:px-24 md:px-12 sm:px-6 py-10 flex-col items-center">
         <div className="container flex flex-col gap-2 justify-center my-5">
           <h1 className="text-7xl lg:text-9xl text-white font-black tracking-tighter">
