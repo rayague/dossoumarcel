@@ -53,9 +53,9 @@ export default function Home() {
           </h1>
           <div className="container text-white text-center font-black text-3xl md:text-5xl lg:text-7xl tracking-normal flex flex-col gap-10 justify-around w-full my-28 mx-auto">
             <p className={greatVibes.className}>
-              "Il n&apos;y a pas de secret pour réussir, c&apos;est le résultat
-              de la préparation, du travail et de l&apos;apprentissage de
-              l&apos;échec."
+              &quot;Il n&apos;y a pas de secret pour réussir, c&apos;est le
+              résultat de la préparation, du travail et de l&apos;apprentissage
+              de l&apos;échec.&quot;
             </p>
           </div>
 
@@ -65,8 +65,8 @@ export default function Home() {
               (Athiémé), Bénin.
             </p>
             <p>
-              Laboratoire d’Économie Publique, Faculté des Sciences Économiques
-              et de Gestion, Université d’Abomey-Calavi.
+              Laboratoire d&apos;Économie Publique, Faculté des Sciences
+              Économiques et de Gestion, Université d&apos;Abomey-Calavi.
             </p>
             <p>Tel: +229 97 96 14 17 | Email: dossoumarcel863@yahoo.fr</p>
           </div>

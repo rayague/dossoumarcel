@@ -48,23 +48,24 @@ export default function Home() {
                 />
                 <h3 className="text-white text-lg font-normal">
                   Je suis Docteur en Sciences Économiques, spécialisé dans
-                  l'analyse des politiques publiques et la recherche sur le
+                  l&apos;analyse des politiques publiques et la recherche sur le
                   développement économique durable. Mon parcours académique et
-                  professionnel m'a permis de développer une expertise
+                  professionnel m&apos;a permis de développer une expertise
                   approfondie dans les domaines de la microéconomie, la
-                  macroéconomie et l'économie internationale. Passionné par les
-                  défis économiques contemporains, je m'efforce d'apporter des
-                  solutions basées sur des analyses rigoureuses et innovantes
-                  pour favoriser une croissance économique équitable.
+                  macroéconomie et l&apos;économie internationale. Passionné par
+                  les défis économiques contemporains, je m&apos;efforce
+                  d&apos;apporter des solutions basées sur des analyses
+                  rigoureuses et innovantes pour favoriser une croissance
+                  économique équitable.
                   <br />
                   <br />
-                  Au cours de mes recherches, j'ai publié plusieurs articles sur
-                  les effets des politiques fiscales et monétaires dans les
-                  économies en développement. Mon engagement envers
-                  l'enseignement et la transmission du savoir se traduit par mon
-                  expérience en tant que professeur invité dans diverses
-                  universités, où j'ai formé la prochaine génération
-                  d'économistes.
+                  Au cours de mes recherches, j&apos;ai publié plusieurs
+                  articles sur les effets des politiques fiscales et monétaires
+                  dans les économies en développement. Mon engagement envers
+                  l&apos;enseignement et la transmission du savoir se traduit
+                  par mon expérience en tant que professeur invité dans diverses
+                  universités, où j&apos;ai formé la prochaine génération
+                  d&apos;économistes.
                 </h3>
               </div>
             </div>
@@ -76,17 +77,17 @@ export default function Home() {
                 Mon parcours en économie a commencé par une passion pour la
                 compréhension des mécanismes complexes qui sous-tendent la
                 croissance économique et le développement durable. Diplômé avec
-                une thèse portant sur l'impact des politiques monétaires sur les
-                économies émergentes, j'ai continué à développer mon expertise à
-                travers des travaux de recherche et des collaborations avec des
-                institutions internationales.
+                une thèse portant sur l&apos;impact des politiques monétaires
+                sur les économies émergentes, j&apos;ai continué à développer
+                mon expertise à travers des travaux de recherche et des
+                collaborations avec des institutions internationales.
                 <br />
                 <br />
-                Aujourd'hui, je mets mes connaissances en économie appliquée au
-                service de projets visant à résoudre les inégalités économiques,
-                à promouvoir des systèmes financiers inclusifs et à analyser
-                l'efficacité des politiques publiques dans les pays en
-                développement.
+                Aujourd&apos;hui, je mets mes connaissances en économie
+                appliquée au service de projets visant à résoudre les inégalités
+                économiques, à promouvoir des systèmes financiers inclusifs et à
+                analyser l&apos;efficacité des politiques publiques dans les
+                pays en développement.
               </p>
             </div>
           </div>
@@ -96,19 +97,19 @@ export default function Home() {
           <div className="flex w-full mx-auto gap-6">
             <div className="container w-full text-white h-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 items-center justify-center lg:grid-cols-2 gap-5">
               <p className="text-white text-lg font-normal">
-                J'ai eu la chance de travailler sur plusieurs projets tels que
-                la création de sites web pour des entreprises locales, le
-                développement d'applications mobiles, et des projets personnels
-                liés à l'environnement et à la mode durable. Ces expériences
-                m'ont permis de renforcer mes compétences en développement et en
-                gestion de projets.
+                J&apos;ai eu la chance de travailler sur plusieurs projets tels
+                que la création de sites web pour des entreprises locales, le
+                développement d&apos;applications mobiles, et des projets
+                personnels liés à l&apos;environnement et à la mode durable. Ces
+                expériences m&apos;ont permis de renforcer mes compétences en
+                développement et en gestion de projets.
               </p>
               <div className="container grid gap-5">
                 <div className="container border p-5 flex flex-col items-center justify-center rounded-md border-slate-500">
                   <span className="text-red-600 font-black text-4xl">
                     3+ ans
                   </span>
-                  <h3 className="font-bold text-2xl">D'expériences</h3>
+                  <h3 className="font-bold text-2xl">D&apos;expériences</h3>
                 </div>
                 <div className="container border p-5 flex flex-col items-center justify-center rounded-md border-slate-500">
                   <span className="text-red-600 font-black text-4xl">10+</span>
