@@ -31,14 +31,14 @@ export default function Home() {
             width={500}
             objectFit="cover"
             alt="image"
-            src="/images/lg/pictureLg1.jpg"
+            src="/images/StockSnap_AWFJEGJAMS.jpg"
             className="w-full my-6"
           />
           <div className="container flex flex-col gap-10 justify-around w-full my-16 mx-auto">
             <h1 className="text-5xl text-white font-bold">
               Découvrez mes réalisations
             </h1>
-            <div className=" grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4  gap-6">
+            <div className=" grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3  gap-6">
               <Link href="https://doi.org/10.1111/1477-8947.12512" className="">
                 <div className="container w-full h-auto flex-col border-gray-700 flex gap-3 border p-4 rounded-md bg-slate-900 shadow-lg shadow-black hover:bg-slate-700 delay-100 ease-in-out duration-300 hover:scale-110">
                   <Image
@@ -519,7 +519,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div className="container w-full h-auto flex-col border-gray-700 flex gap-3 border p-4 rounded-md bg-slate-900 shadow-lg shadow-black hover:bg-slate-700 ease-in-out delay-100 hover:scale-110 duration-300">
+          <div className="container w-full h-auto flex-col border-gray-700 flex gap-3 border p-4 rounded-md bg-slate-900 shadow-lg shadow-black hover:bg-slate-700 ease-in-out delay-100 hover:scale-110 duration-300 my-3">
             <h1 className="text-2xl text-white font-bold">
               Participation aux Ateliers
             </h1>
@@ -529,9 +529,9 @@ export default function Home() {
             </h3>
           </div>
 
-          <div className="container w-full h-auto flex-col border-gray-700 flex gap-3 border p-4 rounded-md bg-slate-900 shadow-lg shadow-black hover:bg-slate-700 ease-in-out delay-100 hover:scale-110 duration-300">
+          <div className="container w-full h-auto flex-col border-gray-700 flex gap-3 border p-4 rounded-md bg-slate-900 shadow-lg shadow-black hover:bg-slate-700 ease-in-out delay-100 hover:scale-110 duration-300 my-3">
             <h1 className="text-2xl text-white font-bold">Références</h1>
-            <div className="flex flex-row">
+            <div className="flex flex-col lg:flex-row ">
               <div className="text-white font-light">
                 <h3 className="">Prof. Sèna Alastaire ALINSATO</h3>
                 <p>
