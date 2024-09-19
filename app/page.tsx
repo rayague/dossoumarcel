@@ -42,7 +42,7 @@ export default function Home() {
             height={500}
             width={500}
             alt="Dossou Toyo Amègnonna Marcel"
-            src="/images/pexels-tima-miroshnichenko-7567227.jpg"
+            src="/images/welcome.jpg"
             className="w-full my-6"
           />
           <h3 className="text-2xl lg:text-5xl text-white font-light items-start">
@@ -106,7 +106,7 @@ export default function Home() {
 
         <div className="container flex items-center justify-center">
           <h3 className="text-white text-md font-normal text-center">
-            © <span className="text-blue-400">BlogPortfolio.</span> Tous droits
+            © <span className="text-blue-400">Portfolio.</span> Tous droits
             réservés. Réalisé par{" "}
             <Link
               href="https://portfolio-cnkp.vercel.app"

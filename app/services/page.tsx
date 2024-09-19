@@ -35,7 +35,7 @@ export default function Home() {
             width={500}
             objectFit="cover"
             alt="image"
-            src="/images/picture7.jpg"
+            src="/images/service.jpg"
             className="w-full my-6"
           />
           <div className="container flex flex-col gap-10 justify-around w-full my-16 mx-auto">
@@ -153,7 +153,7 @@ export default function Home() {
         <hr className="bg-white w-full my-5" />
         <div className="container flex items-center justify-center">
           <h3 className="text-white text-md font-normal text-center">
-            © <span className="text-blue-400">BlogPortFotlio.</span> Tous droits
+            © <span className="text-blue-400">PortFotlio.</span> Tous droits
             réservés. Réalisé par{" "}
             <Link
               href="https://portfolio-cnkp.vercel.app"

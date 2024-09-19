@@ -97,12 +97,16 @@ export default function Home() {
           <div className="flex w-full mx-auto gap-6">
             <div className="container w-full text-white h-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 items-center justify-center lg:grid-cols-2 gap-5">
               <p className="text-white text-lg font-normal">
-                J&apos;ai eu la chance de travailler sur plusieurs projets tels
-                que la création de sites web pour des entreprises locales, le
-                développement d&apos;applications mobiles, et des projets
-                personnels liés à l&apos;environnement et à la mode durable. Ces
-                expériences m&apos;ont permis de renforcer mes compétences en
-                développement et en gestion de projets.
+                Titulaire d&apos;un doctorat en sciences économiques, j&apos;ai
+                consacré ma carrière à l&apos;analyse des dynamiques économiques
+                et des politiques monétaires dans les économies émergentes. Mes
+                recherches approfondies sur l&apos;interaction entre les
+                institutions financières et le développement durable m&apos;ont
+                permis de collaborer avec diverses organisations
+                internationales. Fort de plusieurs publications académiques, je
+                continue de contribuer à l&apos;avancement des connaissances en
+                économie, tout en appliquant mon expertise pour conseiller sur
+                des questions de croissance économique et de gouvernance.
               </p>
               <div className="container grid gap-5">
                 <div className="container border p-5 flex flex-col items-center justify-center rounded-md border-slate-500">
@@ -133,7 +137,7 @@ export default function Home() {
         <hr className="bg-white w-full my-5" />
         <div className="container flex items-center justify-center">
           <h3 className="text-white text-md font-normal text-center">
-            © <span className="text-blue-400">Ray Portfolio</span>. Tous droits
+            © <span className="text-blue-400">Portfolio</span>. Tous droits
             réservés. Réalisé par{" "}
             <Link
               href="https://portfolio-cnkp.vercel.app"
