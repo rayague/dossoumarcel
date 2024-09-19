@@ -31,7 +31,7 @@ const greatVibes = Great_Vibes({
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col bg-slate-950 justify-center font-sans pt-10 pb-32 ease-in delay-150">
+    <main className="flex min-h-screen flex-col bg-slate-950 justify-center font-sans pt-10 pb-32">
       {" "}
       <div className="flex px-5 lg:px-24 md:px-12 sm:px-6 py-10 flex-col items-center">
         <div className="container flex flex-col gap-2  justify-center my-5">
@@ -48,7 +48,7 @@ export default function Home() {
           <h3 className="text-2xl lg:text-5xl text-white font-light items-start">
             Je suis DOSSOU Toyo Amègnonna Marcel et suis un{" "}
           </h3>
-          <h1 className="text-7xl lg:text-8xl text-white font-black tracking-tighter">
+          <h1 className="text-5xl md:text-6xl lg:text-8xl text-white font-black tracking-tighter">
             Docteur en Science Économique.
           </h1>
           <div className="container text-white text-center font-black text-3xl md:text-5xl lg:text-7xl tracking-normal flex flex-col gap-10 justify-around w-full my-28 mx-auto">
